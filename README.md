@@ -1,13 +1,6 @@
 #### App is live and running at 
 
-### https://nextjs-ecommerce-typescript.vercel.app/
-
-
- - don't forget to leave a star ! :)
-
-## Authors
-
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+### https://saylani-final-hackathon.vercel.app/
 
 ## Features
 
